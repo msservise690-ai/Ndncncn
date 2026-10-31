@@ -1,0 +1,15 @@
+aiogram>=3.4
+aiohttp
+aiosqlite
+httpx
+python-dotenv
+cryptography
+telethon
+yt-dlp
+pillow
+pilmoji
+qrcode
+numpy
+opencv-python-headless
+youtube-search-python
+py-tgcalls
